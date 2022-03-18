@@ -1,6 +1,6 @@
 :: Important stuff
 @echo off && cls
-title GoAnimate Wrapper
+title GO SX
 
 ::::::::::::::::::::
 :: Initialization ::
@@ -28,5 +28,5 @@ if exist notinstalled (
 :: Run npm start
 :start
 echo GoAnimate Wrapper is now starting...
-echo Please navigate to http://localhost on your browser.
+echo Thanks for installing Wrappintosh, this will be updated hopefully. Please navigate to http://localhost on your browser.
 npm start
